@@ -1,0 +1,5 @@
+ChatBot Terms of Use
+
+Version 1.0
+
+Our service requires facebook information, we do not store any of these informations.
